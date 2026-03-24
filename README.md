@@ -90,7 +90,7 @@ The dashboard is designed to support data-driven decision-making for improving c
 
 <h2> Dashboard Preview</h2>
 <p align="center">
-  <img src="C:\Users\anjan\OneDrive\Pictures\Screenshots" alt="Dashboard Preview" width="800">
+  <img src="Screenshot 2026-03-24 150531.png" alt="Dashboard Preview" width="800">
 </p>
 
 <hr>
