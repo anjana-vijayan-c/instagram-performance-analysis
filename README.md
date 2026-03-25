@@ -108,7 +108,7 @@ The dashboard is designed to support data-driven decision-making for improving c
 <h2> Author</h2>
 <p>
 <b>Anjana C</b><br>
-Aspiring Data Analyst | Business Analytics Enthusiast
+Aspiring Data & Business Analyst | Bridging Data and Business Decisions
 </p>
 
 <hr>
